@@ -1,6 +1,6 @@
 {
   "name": "iperf3-webui",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A modern, lightweight, web-based iPerf3 GUI built with Python 3 and Flask. Run speed tests from any device \u2014 macOS, Linux, Windows, or mobile.",
   "main": "src/index.js",
   "scripts": {
